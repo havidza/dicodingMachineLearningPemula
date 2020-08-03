@@ -1,2 +1,2 @@
-# dicodingMachineLearningPemula
-Submission Dicoding Belajar Machine Learning Pemula
+# Submission Machine Learning
+Build rock-papper-schissors with google collab
